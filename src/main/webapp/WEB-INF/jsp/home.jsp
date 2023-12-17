@@ -1,3 +1,3 @@
 <html>
-<body>Hello, World! of Spring! <%= java.time.LocalDateTime.now() %></body>
+<body>Hello, Home! of Spring! <%= java.time.LocalDateTime.now() %></body>
 </html>
